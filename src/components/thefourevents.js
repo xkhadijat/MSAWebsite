@@ -33,7 +33,7 @@ const Portfolio = () => {
                      to="https://www.jmu.edu/union/index.shtml?jmu_redir=r_madisonunion"
                     className="text-white bg-purple-900 hover:bg-purple-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl"
                   >
-                    Location:Union302{" "}
+                    Location :Union302{" "}
                   </Link>
                 </div>
               </div>
